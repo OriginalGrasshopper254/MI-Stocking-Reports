@@ -115,6 +115,5 @@ def get_info():
     driver.quit()
 
 
-
 county_selector()
 get_info()
