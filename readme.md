@@ -6,7 +6,7 @@ Dependancies: Selenium, Pandas, time
 
 Project Description: A simple script using selenium and Safari to scrape data from the DNR website
 about fish stocking in the Mid Michigan counties of Bay, Clare, Gladwin, Midland, Saginaw,
-Flint, and Newaygo. After collecting the data needed its then put into a pandas DataFrame and cleaned for readability.
+Genesee, and Newaygo. After collecting the data needed its then put into a pandas DataFrame and cleaned for readability.
 
 
 How to run/install: Only meant to run in terminal. run as you would any other python script created locally on your machine, assuming you have the dependancies installed.
