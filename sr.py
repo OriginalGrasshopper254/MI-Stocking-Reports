@@ -1,7 +1,7 @@
 #! A simple script to check the DNR of Michigan Stocking Report on my favorited areas to fish.
 # Author: 'UleMangaa'
 
-# Importing necessary modules
+# Importing necessary modules.
 
 import pandas as pd
 from selenium import webdriver
