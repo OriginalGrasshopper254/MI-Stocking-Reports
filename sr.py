@@ -81,7 +81,7 @@ def county_selector():
             val = False
 
         else:
-            print(''' Wrong input. I dont recognize what your telling me. \n''')
+            return ''' Wrong input. I dont recognize what your telling me. \n'''
 
 
 def get_info():
