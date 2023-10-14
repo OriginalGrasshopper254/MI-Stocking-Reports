@@ -11,9 +11,6 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver import ActionChains
 import time
 
-###Git trying to figure this out
-
-
 #defining webdriver using Safari.
 driver = webdriver.Safari()
 url = 'https://www.dnr.state.mi.us/fishstock'
@@ -84,7 +81,7 @@ def county_selector():
             val = False
 
         else:
-            print(''' Wrong input. I dont recognize what your telling me. \n''')
+            return ''' Wrong input. I dont recognize what your telling me. \n'''
 
 
 def get_info():
